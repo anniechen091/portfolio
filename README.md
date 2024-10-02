@@ -1,6 +1,4 @@
-# portfolio
-
-# Data Analyst
+# Data Analyst Resume
 
 ### Education
 UCLA, Master of Engineering
