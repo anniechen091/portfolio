@@ -1,4 +1,3 @@
-# Annie Chen
 Hi, I'm Annie! 👋  
 
 <span style="font-family: Calibri; font-size: 12 px; color: black;">
