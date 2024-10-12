@@ -27,7 +27,9 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/anni
 Something About Me
 
 🍰 Food and travel enthusiast
+
 🤝 Enjoy meeting new people and exploring new cultures
+
 💻 Speak fluent Python, SQL, Power BI, and Tableau – your data's best guide to insights
 Professional Experience
 
