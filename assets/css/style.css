@@ -1,11 +1,6 @@
-.photo {
-  width: 100% !important;      /* 或設定為特定的 px 值 */
-  max-width: 50px !important; /* 限制照片的最大寬度 */
-  margin: 0 auto !important;   /* 將照片居中顯示 */
+.wrapper {
+  max-width: 400px !important;
+  margin: 0 auto !important; /* 上下邊距0，左右自動，這會將內容居中 */
+  padding: 20px !important;
 }
 
-.content {
-  max-width: 500px !important; /* 文本區域的最大寬度 */
-  margin: 0 auto !important;   /* 文本內容居中 */
-  padding: 20px !important;    /* 文本周圍留白 */
-}
