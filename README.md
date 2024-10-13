@@ -3,7 +3,7 @@
 As a UCLA Data Science graduate with 5 years of experience in data, I'm passionate about turning data into stories and insights to solve real-world challenges. Whether it's boosting sales performance or optimizing manufacturing processes, I create impactful solutions through data-driven strategies.
 </p>
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-Over the years, I've honed my skills in predictive modeling, data visualization, and statistical analysis across various industries including retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making data-driven strategies accessible and effective. Let's uncover the stories hidden in data together!
+Over the years, I've honed my skills in predictive modeling, data visualization, and statistical analysis across various industries including retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making data-driven strategies accessible and effective.
 </p>
 
 <span style="font-family: Calibri; color: black;">
