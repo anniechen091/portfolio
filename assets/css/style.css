@@ -1,6 +1,6 @@
 .wrapper {
   max-width: 400 px; !important;
-  margin: 0 auto; /* 上下邊距0，左右自動，這會將內容居中 */
-  padding: 20 px; 
+  margin: 0 auto;  !important;/* 上下邊距0，左右自動，這會將內容居中 */
+  padding: 20 px;  !important;
 }
 
