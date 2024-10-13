@@ -9,6 +9,7 @@ Over the years, I've honed my skills in predictive modeling, data visualization,
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](mailto:anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
 </span>
 
+
 ## Something About Me
 
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
@@ -19,6 +20,7 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/anni
 💻 Speak fluent Python, SQL, Power BI, and Tableau 
 
 </p>
+
 
 ## Professional Experience
 
@@ -32,12 +34,14 @@ Data Scientist, Manufacturing @ Nan Ya Plastics Corporation  (08/2019 – 05/202
 - Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
 </p>
 
+
 ## Education
 
 <span style="font-family: Calibri; font-size: 12 px; color: black;">
 UCLA, Master of Engineering in Data Science  <br>
 National Tsing Hua University, Industrial Engineering  <br>
 </span>
+
 
 ## Projects
 
