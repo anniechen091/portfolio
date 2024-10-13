@@ -1,5 +1,7 @@
 title: Annie Chen
-logo: /assets/photo.jpg
+logo: /assets/img/photo.jpg
 description: 
 show_downloads: False
 theme: jekyll-theme-minimal
+include: - /assets/css/style.css
+
