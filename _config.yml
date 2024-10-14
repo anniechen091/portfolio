@@ -6,6 +6,6 @@ theme: jekyll-theme-minimal
 include:
   - /assets/css/style.css 
 include:
-  - _layouts
+  - _pages
 
 
