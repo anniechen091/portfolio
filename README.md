@@ -11,6 +11,7 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
 </span>
 
 
+
 ## Something About Me
 
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
@@ -18,6 +19,7 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
 🤝 Enjoy meeting new people and exploring new cultures  <br>
 💻 Speak fluent Python, SQL, Power BI, and Tableau 
 </p>
+
 
 
 ## Professional Experience
@@ -32,6 +34,7 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
   - Applied machine learning models to optimize production processes, reducing resource waste by 50%. <br>
   - Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
 </p>
+
 
 
 ## Projects
