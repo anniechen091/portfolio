@@ -7,5 +7,8 @@ include:
   - /assets/css/style.css 
 include:
   - _pages
+collections:
+  pages:
+    output: true
 
 
