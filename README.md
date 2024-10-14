@@ -1,13 +1,13 @@
 # Hi, I'm Annie! 👋  
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-As a UCLA Data Science graduate with 5 years of experience in data, I'm passionate about turning data into stories and insights to solve real-world challenges. Whether it's boosting sales performance or optimizing manufacturing processes, I create impactful solutions through data-driven strategies.
+As a UCLA Data Science graduate with 5 years of experience in data, I'm passionate about turning data into insights to solve real-world challenges. Whether it's boosting sales performance or optimizing manufacturing processes, I create impactful solutions through data-driven strategies.
 </p>
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-Over the years, I've honed my skills in predictive modeling, data visualization, and statistical analysis across various industries including retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making data-driven strategies accessible and effective.
+Specializing in predictive modeling, data visualization, and statistical analysis across various industries including retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. 
 </p>
 
 <span style="font-family: Calibri; color: black;">
-I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](mailto:anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
+Currently, I'm open to new opportunities. Feel free to review my resume for further details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](mailto:anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
 </span>
 
 
@@ -38,7 +38,7 @@ I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/annieche
 
 <div class="project-section">
     <div class="project">
-        <img src="/assets/images/perceptron.jpg" alt="Perceptron Learning Algorithm">
+        <img src=" /assets/img/photo.jpg" alt="Perceptron Learning Algorithm">
         <div class="project-info">
             <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
             <p class="date">Dec, 2023</p>
@@ -47,7 +47,7 @@ I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/annieche
     </div>
 
     <div class="project">
-        <img src="/assets/images/perceptron.jpg" alt="Perceptron Learning Algorithm">
+        <img src=" /assets/img/photo.jpg" alt="Perceptron Learning Algorithm">
         <div class="project-info">
             <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
             <p class="date">Dec, 2023</p>
