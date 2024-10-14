@@ -2,9 +2,39 @@
 
 @import "jekyll-theme-minimal";
 
-.wrapper {
-  max-width: 400px !important;
-  margin: 0 auto !important; /* 上下邊距0，左右自動，這會將內容居中 */
-  padding: 20px !important;
+.project-section .project {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0; /* 灰色背景，每个项目可以通过添加类来交替颜色 */
 }
+
+.project-section .project:nth-child(even) {
+    background-color: #ffffff; /* 白色背景，用于交替颜色 */
+}
+
+.project-section .project img {
+    width: 150px; /* 根据需要调整 */
+    height: auto;
+    margin-right: 20px;
+}
+
+.project-section .project-info {
+    flex: 1;
+    max-height: 150px; /* 限制内容高度与图片一致 */
+    overflow: hidden; /* 超出部分隐藏 */
+}
+
+.project-section .project-info h3 {
+    margin-top: 0;
+    font-size: 1.2em; /* 根据需要调整标题大小 */
+}
+
+.project-section .project-info .date {
+    font-size: 0.9em; /* 日期字体大小 */
+    color: #666; /* 日期字体颜色 */
+    margin-bottom: 5px; /* 日期与描述之间的间距 */
+}
+
 
