@@ -36,11 +36,6 @@ I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/annieche
 
 ## Projects
 
----
-layout: default  // 确保你使用了正确的布局文件，如果有自定义布局，可以更改这里
-title: Projects
----
-
 <div class="projects-container">
 
 <div class="project gray">
