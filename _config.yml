@@ -3,5 +3,3 @@ logo: /assets/img/photo.jpg
 description: ""
 show_downloads: false
 theme: jekyll-theme-minimal
-include:
-  - /assets/css/style.css
