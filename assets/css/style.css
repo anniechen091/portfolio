@@ -38,3 +38,22 @@
 }
 
 
+.projects-container .project {
+    padding: 15px;
+    overflow: hidden; /* 确保清除浮动 */
+}
+
+.project.gray {
+    background-color: #f7f7f7;
+}
+
+.project.white {
+    background-color: #ffffff;
+}
+
+.project img {
+    max-width: 200px; /* 控制图片的最大宽度 */
+}
+
+
+
