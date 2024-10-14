@@ -36,23 +36,6 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
 
 ## Projects
 
-<div class="project-section">
-    <div class="project">
-        <img src=" /assets/img/photo.jpg" alt="Perceptron Learning Algorithm">
-        <div class="project-info">
-            <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
-            <p class="date">Dec, 2023</p>
-            <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-        </div>
-    </div>
 
-    <div class="project">
-        <img src=" /assets/img/photo.jpg" alt="Perceptron Learning Algorithm">
-        <div class="project-info">
-            <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
-            <p class="date">Dec, 2023</p>
-            <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-        </div>
-    </div>
 
 
