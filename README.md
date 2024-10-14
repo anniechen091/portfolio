@@ -46,7 +46,7 @@ I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/annieche
         </div>
     </div>
 
-        <div class="project">
+    <div class="project">
         <img src="/assets/images/perceptron.jpg" alt="Perceptron Learning Algorithm">
         <div class="project-info">
             <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
