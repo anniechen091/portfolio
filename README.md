@@ -4,7 +4,7 @@ As a UCLA Data Science graduate with 5 years of experience in data, I'm passiona
 </p>
 
 <span style="font-family: Calibri; color: black;">
-Currently, I'm open to new opportunities. Feel free to review my resume for further details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](mailto:anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
+Currently, I'm open to new opportunities. Feel free to review my [resume](assets/Annie's Resume.pdf){:target="_blank"} for further details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
 </span>
 
    
