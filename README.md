@@ -62,7 +62,7 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
 <div class="project gray">
     <img src=" assets/img/photo.jpg" alt="Project 1" style="float:left; margin-right:20px; height:auto; max-height:200px;">
     <div>
-        <h3>Project Title 1</h3>
+        <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
         <p>Date: January 2024</p>
         <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
     </div>
@@ -74,7 +74,7 @@ Currently, I'm open to new opportunities. Feel free to review my resume for furt
 <div class="project white">
     <img src=" assets/img/photo.jpg" alt="Project 2" style="float:left; margin-right:20px; height:auto; max-height:200px;">
     <div>
-        <h3>Project Title 2</h3>
+        <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
         <p>Date: February 2024</p>
         <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
     </div>
