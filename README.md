@@ -36,6 +36,21 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 ## Projects
 
+<div style="overflow: hidden; background-color: #f0f0f0; padding: 10px;">
+
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
+<img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
+</div>
+
+<div style="float: left; width: 65%;">
+<h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<p><strong>Date:</strong> Dec, 2023</p>
+<p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+</div>
+
+<div style="clear: both;"></div>
+</div>
+
 <div style="overflow: hidden; background-color: #ffffff; padding: 10px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
@@ -84,31 +99,36 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 <br>
 
+<div style="overflow: hidden; background-color: #f0f0f0; padding: 10px;">
 
-<div class="projects-container">
-
-<div class="project gray">
-    <img src=" assets/img/photo.jpg" alt="Project 1" style="float:left; margin-right:20px; height:auto; max-height:200px;">
-    <div>
-        <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
-        <p>Date: January 2024</p>
-        <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-    </div>
-    <div style="clear:both;"></div>
-</div>
-<br>
-<br>
-
-<div class="project white">
-    <img src=" assets/img/photo.jpg" alt="Project 2" style="float:left; margin-right:20px; height:auto; max-height:200px;">
-    <div>
-        <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
-        <p>Date: February 2024</p>
-        <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-    </div>
-    <div style="clear:both;"></div>
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
+<img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
 </div>
 
+<div style="float: left; width: 65%;">
+<h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<p><strong>Date:</strong> Dec, 2023</p>
+<p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+</div>
 
+<div style="clear: both;"></div>
+</div>
+
+<div style="overflow: hidden; background-color: #ffffff; padding: 10px;">
+
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
+<img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
+</div>
+
+<div style="float: left; width: 65%;">
+<h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<p><strong>Date:</strong> Dec, 2023</p>
+<p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+</div>
+
+<div style="clear: both;"></div>
+</div>
+
+<br>
 
 
