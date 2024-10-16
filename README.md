@@ -51,6 +51,32 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 <div style="clear: both;"></div>
 </div>
 
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
+<img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
+</div>
+
+<div style="float: left; width: 65%;">
+<h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<p><strong>Date:</strong> Dec, 2023</p>
+<p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+</div>
+
+<div style="clear: both;"></div>
+</div>
+
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
+<img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
+</div>
+
+<div style="float: left; width: 65%;">
+<h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<p><strong>Date:</strong> Dec, 2023</p>
+<p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+</div>
+
+<div style="clear: both;"></div>
+</div>
+
 <br>
 
 
