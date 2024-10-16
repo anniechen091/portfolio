@@ -38,8 +38,6 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 ## Projects
 
-<p><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
-; padding: 5px; display: inline-block;">
 <div style="overflow: hidden;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;"><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
