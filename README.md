@@ -33,6 +33,9 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 </p>
   
 
+<p><span style="color: #d11141; font-size: 20px; background-color: #fff7cc; padding: 5px; display: inline-block;"> 🔥 Exclusive Offer: <strong>Buy 5 and save $500 on each,</strong><br>
+    bringing your cost down to an incredible <strong>$1,499 </strong>per slide! 🔥</span></p>
+
 ## Projects
 
 <p><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
@@ -43,15 +46,16 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 <img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
 </div>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 65%;"><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
+; padding: 5px; display: inline-block;">
 <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
 <p><strong>Date:</strong> Dec, 2023</p>
 <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-</div>
+</span></div>
 
 <div style="clear: both;"></div>
 </div>
-</span></p> 
+
 
 <div style="overflow: hidden;">
 
