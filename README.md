@@ -32,12 +32,11 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
   - Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
 </p>
   
-<p><span style="color: #d11141; font-size: 20px; background-color: #fff7cc
-; padding: 5px; display: inline-block;">🔥 Exclusive Offer: <strong>Buy 5 and save $500 on each,</strong><br>
-    bringing your cost down to an incredible <strong>$1,499 </strong>per slide! 🔥</span></p>  
 
 ## Projects
 
+<p><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
+; padding: 5px; display: inline-block;">
 <div style="overflow: hidden;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
@@ -52,6 +51,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 <div style="clear: both;"></div>
 </div>
+</span></p> 
 
 <div style="overflow: hidden;">
 
