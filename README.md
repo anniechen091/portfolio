@@ -38,7 +38,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 ## Projects
 
-<div style="overflow: hidden; background-color: #f0f0f0; padding: 5px;">
+<div style="overflow: hidden; background-color: #ffffff; padding: 10px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
 <img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
@@ -54,7 +54,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 </div>
 
 
-<div style="overflow: hidden;">
+<div style="overflow: hidden; background-color: #f0f0f0; padding: 10px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
 <img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
@@ -69,7 +69,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 <div style="clear: both;"></div>
 </div>
 
-<div style="overflow: hidden;">
+<div style="overflow: hidden; background-color: #ffffff; padding: 10px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;">
 <img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
