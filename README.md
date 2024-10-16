@@ -40,8 +40,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 
 <div style="overflow: hidden;">
 
-<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px;"><span style="color: #d11141; font-size: 20px; background-color: #f7f7f7
-; padding: 5px; display: inline-block;">
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; background-color: #f7f7f7; padding: 5px; ">
 <img src="assets/img/photo.jpg" alt="Perceptron Learning Algorithm" style="width: 100%; height: auto;">
 </div>
 
@@ -49,7 +48,7 @@ Currently, I'm open to new opportunities. Feel free to review my [resume](assets
 <h3>Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
 <p><strong>Date:</strong> Dec, 2023</p>
 <p>The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-</span></div>
+</div>
 
 <div style="clear: both;"></div>
 </div>
