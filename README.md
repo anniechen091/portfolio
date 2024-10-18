@@ -1,6 +1,6 @@
 # Hi, I'm Annie! 👋  
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-A recent UCLA Data Science grad with 5 years in data, passionate about turning data into insights to solve real-world challenges. Specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
+A recent UCLA Data Science grad with 5 years of experience in data, passionate about turning data into insights to solve real-world challenges. Specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
 </p>
 
 <span style="font-family: Calibri; color: black;">
