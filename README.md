@@ -1,10 +1,10 @@
 # Hi, I'm Annie! 👋  
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-As a UCLA Data Science graduate with 5 years of experience in data, I'm passionate about turning data into insights to solve real-world challenges. Specializing in predictive modeling, data visualization, and statistical analysis across various industries including retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. 
+A recent UCLA Data Science grad with 5 years in data, passionate about turning data into insights to solve real-world challenges. Specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
 </p>
 
 <span style="font-family: Calibri; color: black;">
-Currently, I'm open to new opportunities. Feel free to review my [resume](assets/Annie's Resume.pdf){:target="_blank"} for further details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
+Right now, I'm seeking my next move. I invite you to check out my [resume](assets/Annie's Resume.pdf){:target="_blank"} for more details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
 </span>
 
    
