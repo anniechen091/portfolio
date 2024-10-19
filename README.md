@@ -39,22 +39,23 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 
 <div style="overflow: hidden; background-color: #ffffff; padding: 15px;">
 
-<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
+    <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; display: flex; align-items: center;">
+        <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto; margin: auto;">
+    </div>
+
+    <div style="float: left; width: 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
+            <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+                Anticipating Tomorrow: Predicting Radiologist Case Volumes
+            </a>
+        </h3>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
+        <p style="font-size: 13px; margin-top: 5px; text-align: justify;">Partnered with Massachusetts General Hospital to craft a LightGBM and ensemble model-based forecasting system, achieving <10% SMAPE for 1-7-day forecasts and enhancing healthcare resource allocation.</p>
+    </div>
+
+    <div style="clear: both;"></div>
 </div>
 
-<div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
-    </a>
-</h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">Partnered with Massachusetts General Hospital to craft a LightGBM and ensemble model-based forecasting system, achieving <10% SMAPE for 1-7-day forecasts and enhancing healthcare resource allocation.</p>
-</div>
-
-<div style="clear: both;"></div>
-</div>
 
 <div style="overflow: hidden; background-color: #f0f0f0; padding: 15px;">
 
