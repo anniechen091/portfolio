@@ -63,7 +63,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    </a>
+</h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
 <p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
 </div>
@@ -78,7 +82,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    </a>
+</h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
 <p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
 </div>
@@ -93,7 +101,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    </a>
+</h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
 <p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
 </div>
@@ -108,7 +120,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    </a>
+</h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
 <p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
 </div>
@@ -123,7 +139,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">Perceptron Learning Algorithm: Unveiling the Foundations of Neural Network Training</h3>
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
+        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    </a>
+</h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
 <p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
 </div>
