@@ -68,12 +68,12 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 
 <div style="float: left; width: 65%;">
 <h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
-    </a>
+    <a href="https://anniechen091.wixsite.com/anniechen/cod-reduction" target="_blank">
+    AI-Powered Resource Optimization and Waste Reduction
+   </a>
 </h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+<p style="font-size: 13px; margin-top: 5px;">This project focused on building AI-driven predictive models to optimize production planning in plastic manufacturing. By identifying key factors influencing wastewater pollutants, we reduced COD levels from 45,000 ppm to 30,000 ppm, cutting treatment costs and minimizing environmental impact. This approach improved resource management, reduced waste, and increased production efficiency by 20%.</p>
 </div>
 
 <div style="clear: both;"></div>
