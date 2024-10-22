@@ -1,7 +1,8 @@
 # Hi, I'm Annie! 👋  
 <p style="font-family: Calibri; font-size: 12 px; color: black; text-align: justify;">
-Storyteller. Visual creator. Data enthusiast. I turn complex insights into simple, visually compelling stories that make people say, 'Now I get it.'
-   
+Storyteller. Visual creator. Data enthusiast. I turn complex insights into simple, visually compelling stories that make people say, 'Now I get it.'</p>
+
+<p style="font-family: Calibri; font-size: 12 px; color: black; text-align: justify;">   
 A recent UCLA Data Science grad with 5 years of experience in data, specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
 </p>
 
