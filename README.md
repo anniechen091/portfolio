@@ -53,7 +53,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     </a>
 </h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="ffont-family: Calibri; font-size: 14px; margin-top: 5px; text-align: justify;">In collaboration with Massachusetts General Hospital, this project developed a forecasting system using LightGBM and ensemble models to predict radiologist workloads 1-7 days ahead. With a <10% SMAPE, the system improved healthcare resource allocation, ensuring better staff planning, reducing delays, and enhancing patient care efficiency.</p>
+<p style="font-size: 12px; margin-top: 5px; text-align: justify;">In collaboration with Massachusetts General Hospital, this project developed a forecasting system using LightGBM and ensemble models to predict radiologist workloads 1-7 days ahead. With a <10% SMAPE, the system improved healthcare resource allocation, ensuring better staff planning, reducing delays, and enhancing patient care efficiency.</p>
 </div>
 
 <div style="clear: both;"></div>
