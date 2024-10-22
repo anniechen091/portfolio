@@ -63,7 +63,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="overflow: hidden; background-color: #ffffff; padding: 15px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
+<img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
 </div>
 
 <div style="float: left; width: 65%;">
