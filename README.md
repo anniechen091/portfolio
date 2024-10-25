@@ -93,7 +93,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     </a>
 </h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project developed a multimodal database using CLIP embeddings to enable seamless text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. A Streamlit-based interface allows users to easily perform dynamic searches, demonstrating the efficiency of multimodal AI in information retrieval.</p>
+<p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">In this project, we developed a multimodal database using CLIP embeddings to enable seamless text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit, which allows users to easily perform dynamic searches between text and images, making it quick and easy for users to conduct multimodal AI information retrieval.</p>
 </div>
 
 <div style="clear: both;"></div>
