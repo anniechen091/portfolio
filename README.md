@@ -3,7 +3,7 @@
 Storyteller. Visual creator. Data enthusiast. I turn complex insights into simple, visually compelling stories that make people say, 'Now I get it.'</p>
 
 <p style="font-family: Calibri; font-size: 12 px; color: black; text-align: justify;">   
-A recent UCLA Data Science grad with 5 years of experience in data, specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
+<strong>MEng in Data Science @ UCLA</strong><br> A recent UCLA Data Science grad with 5 years of experience in data, specializing in predictive modeling, data visualization, and statistical analysis across multiple domains, including the retail and manufacturing. I'm dedicated to leveraging my skills to help organizations succeed by making strategies accessible and effective. <br>
 </p>
 
 <span style="font-family: Calibri; color: black; text-align: justify;">
@@ -25,14 +25,18 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 ## Professional Experience
 
 <p style="font-family: Calibri; font-size: 12 px; color: black;">
-<bold>Sales Data Analyst, Retail and Ecommerce @ GOOSH INC</bold> (06/2023 – Present)  <br>
-  - Analyzed sales and improved performance, contributing to a 20% sales increase. <br>
-  - Built Power BI dashboards for data-driven decision-making. <br>
+<strong>Sales Data Analyst</strong>, Retail and Ecommerce @ GOOSH INC <span style="color: grey;">(06/2023 – Present)</span>
+  <ul style="font-family: Calibri; font-size: 12 px; color: black;">
+  <li>Analyzed sales and improved performance, contributing to a 20% sales increase.</li>
+  <li>Built Power BI dashboards for data-driven decision-making.</li>
+	</ul>
 </p>
 <p style="font-family: Calibri; font-size: 12 px; color: black;">  
-<bold>Data Scientist, Manufacturing @ Nan Ya Plastics Corporation</bold>  (08/2019 – 05/2022)  <br>
-  - Applied machine learning models to optimize production processes, reducing resource waste by 50%. <br>
-  - Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
+<strong>Data Scientist</strong>, Manufacturing @ Nan Ya Plastics Corporation <span style="color: grey;">(08/2019 – 05/2022)</span> 
+  <ul style="font-family: Calibri; font-size: 12 px; color: black;">
+    <li>Applied machine learning models to optimize production processes, reducing resource waste by 50%. <br>
+    <li>Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
+  </ul>
 </p>
   
 
@@ -69,10 +73,10 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="float: left; width: 65%;">
 <h3 style="font-size: 17px; margin-bottom: 10px;">
     <a href="https://anniechen091.wixsite.com/anniechen/cod-reduction" target="_blank">
-    AI-Powered Resource Optimization and Waste Reduction
+    AI Resource Optimization and Waste Reduction
    </a>
 </h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
+<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> May, 2022</p>
 <p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project focused on building AI-driven predictive models to optimize production planning in plastic manufacturing. By identifying key factors influencing wastewater pollutants, we reduced COD levels from 45,000 ppm to 30,000 ppm, cutting treatment costs and minimizing environmental impact. This approach improved resource management, reduced waste, and increased production efficiency by 20%.</p>
 </div>
 
