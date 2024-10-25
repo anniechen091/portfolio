@@ -24,18 +24,18 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
   
 ## Professional Experience
 
-<p style="font-family: Calibri; font-size: 12 px; color: black;">
+<p style="font-family: Calibri; font-size: 12 px; color: black;margin-bottom: 2px;">
 <strong>Sales Data Analyst</strong>, Retail and Ecommerce @ GOOSH INC <span style="color: grey;">(06/2023 – Present)</span>
-  <ul style="font-family: Calibri; font-size: 12 px; color: black;">
-  <li>Analyzed sales and improved performance, contributing to a 20% sales increase.</li>
-  <li>Built Power BI dashboards for data-driven decision-making.</li>
-	</ul>
+  <ul style="font-family: Calibri; font-size: 12 px; color: black; margin-top: 2px;">
+    <li>Analyzed sales and improved performance, contributing to a 20% sales increase.</li>
+    <li>Built Power BI dashboards for data-driven decision-making.</li>
+  </ul>
 </p>
-<p style="font-family: Calibri; font-size: 12 px; color: black;">  
+<p style="font-family: Calibri; font-size: 12 px; color: black; margin-bottom: 2px;">  
 <strong>Data Scientist</strong>, Manufacturing @ Nan Ya Plastics Corporation <span style="color: grey;">(08/2019 – 05/2022)</span> 
-  <ul style="font-family: Calibri; font-size: 12 px; color: black;">
-    <li>Applied machine learning models to optimize production processes, reducing resource waste by 50%. <br>
-    <li>Led digital transformation initiatives with data visualization tools and robotic process automation techniques.
+  <ul style="font-family: Calibri; font-size: 12 px; color: black; margin-top: 2px;">
+    <li>Applied machine learning models to optimize production processes, reducing resource waste by 50%. </li>
+    <li>Led digital transformation initiatives with data visualization tools and robotic process automation techniques.</li>
   </ul>
 </p>
   
