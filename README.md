@@ -93,7 +93,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     </a>
 </h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+<p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project developed a multimodal database using CLIP embeddings to enable seamless text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. A Streamlit-based interface allows users to easily perform dynamic searches, demonstrating the efficiency of multimodal AI in information retrieval.</p>
 </div>
 
 <div style="clear: both;"></div>
