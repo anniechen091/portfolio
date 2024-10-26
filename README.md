@@ -111,12 +111,12 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 
 <div style="float: left; width: 65%;">
 <h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
+    <a href="assets/Enhancing EEG Data Classification with CNN, CRNN, and Ensemble Models.pdf" target="_blank">
+        Enhancing EEG Data Classification with CNN, CRNN, and Ensemble Models
     </a>
 </h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
+<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> May, 2023</p>
+<p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.</p>
 </div>
 
 <div style="clear: both;"></div>
