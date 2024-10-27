@@ -7,7 +7,7 @@ Storyteller. Visual creator. Data enthusiast. I turn complex insights into simpl
 </p>
 
 <span style="font-family: Calibri; color: black; text-align: justify;">
-Right now, I'm seeking my next move. I invite you to check out my [resume](assets/Annie's Resume.pdf){:target="_blank"} for more details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](anniechen091@gmail.com)/ [GitHub](https://github.com/anniechen091). Let's connect and explore data together!  <br>
+Right now, I'm seeking my next move. I invite you to check out my [resume](assets/Annie's Resume.pdf){:target="_blank"} for more details. I'm delighted to be contacted at [LinkedIn](https://www.linkedin.com/in/anniechen091/)/ [Email](anniechen091@gmail.com). Let's connect and explore data together!  <br>
 </span>
 
    
@@ -127,57 +127,3 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
 <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
 </div>
-
-<div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
-    </a>
-</h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-</div>
-
-<div style="clear: both;"></div>
-</div>
-
-<div style="overflow: hidden; background-color: #ffffff; padding: 15px;">
-
-<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
-</div>
-
-<div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
-    </a>
-</h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-</div>
-
-<div style="clear: both;"></div>
-</div>
-
-<div style="overflow: hidden; background-color: #f0f0f0; padding: 15px;">
-
-<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
-</div>
-
-<div style="float: left; width: 65%;">
-<h3 style="font-size: 17px; margin-bottom: 10px;">
-    <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
-        Anticipating Tomorrow: Predicting Radiologist Case Volumes
-    </a>
-</h3>
-<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
-<p style="font-size: 13px; margin-top: 5px;">The Perceptron Learning Algorithm (PLA) is a fundamental concept in neural network training, providing the groundwork for understanding how single-layer perceptrons learn from input data.</p>
-</div>
-
-<div style="clear: both;"></div>
-</div>
-
-
-
