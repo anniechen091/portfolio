@@ -119,6 +119,8 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.</p>
 </div>
 
+<div style="clear: both;"></div>
+</div>
 
 <div style="overflow: hidden; background-color: #f0f0f0; padding: 15px;">
 
@@ -139,6 +141,4 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="clear: both;"></div>
 </div>
 
-<div style="clear: both;"></div>
-</div>
 
