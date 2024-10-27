@@ -67,7 +67,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="overflow: hidden; background-color: #ffffff; padding: 15px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
+<img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction" style="width: 100%; height: auto;">
 </div>
 
 <div style="float: left; width: 65%;">
@@ -106,7 +106,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="overflow: hidden; background-color: #ffffff; padding: 15px;">
 
 <div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
-<img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
+<img src="assets/img/Enhancing EEG Data Classification cover.png" alt="Enhancing EEG Data Classification" style="width: 100%; height: auto;">
 </div>
 
 <div style="float: left; width: 65%;">
@@ -117,6 +117,26 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </h3>
 <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> May, 2023</p>
 <p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.</p>
+</div>
+
+
+<div style="overflow: hidden; background-color: #f0f0f0; padding: 15px;">
+
+<div style="float: left; width: 30%; margin-right: 20px; height:auto; max-height:200px; ">
+<img src="assets/img/Building Word Embeddings with GloVe cover.webp" style="width: 100%; height: auto;">
+</div>
+
+<div style="float: left; width: 65%;">
+<h3 style="font-size: 17px; margin-bottom: 10px;">
+    <a href="assets/GloVe_Global Vectors for Word Representation.pdf" target="_blank">
+        Building Word Embeddings with GloVe for NLP Applications
+    </a>
+</h3>
+<p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> March, 2023</p>
+<p style="color: #444444; font-size: 12px; margin-top: 5px; text-align: justify;">In this project, we built and trained the GloVe model to create word embeddings by analyzing word co-occurrence patterns. Our work involved constructing and optimizing a word-word co-occurrence matrix, training the embeddings using weighted least squares, and fine-tuning hyperparameters for improved performance. We evaluated the model on tasks like word analogy and similarity, achieving 75% accuracy in analogy prediction. These embeddings improved performance in tasks like information retrieval and natural language processing.</p>
+</div>
+
+<div style="clear: both;"></div>
 </div>
 
 <div style="clear: both;"></div>
