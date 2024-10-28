@@ -141,11 +141,13 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <div style="clear: both;"></div>
 </div>
 
+
+
+
 <style>
 .container {
     display: flex;
     flex-wrap: wrap;
-    background-color: #f0f0f0;
     padding: 15px;
     margin-bottom: 10px;
 }
@@ -187,7 +189,7 @@ p {
         flex-direction: column;
     }
 
-    .image-container, 
+    .image-container,
     .content-container {
         max-width: 100%;
         margin-right: 0;
@@ -201,9 +203,17 @@ p {
         font-size: 14px;
     }
 }
+
+.bg-gray {
+    background-color: #f0f0f0;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
 </style>
 
-<div class="container">
+<div class="container bg-gray">
     <div class="image-container">
         <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow">
     </div>
@@ -218,7 +228,7 @@ p {
     </div>
 </div>
 
-<div class="container">
+<div class="container bg-white">
     <div class="image-container">
         <img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction">
     </div>
@@ -233,7 +243,7 @@ p {
     </div>
 </div>
 
-<div class="container">
+<div class="container bg-gray">
     <div class="image-container">
         <img src="assets/img/CLIP-Architecture-Explained-OpenAI-Training.webp" alt="Multimodal Databases">
     </div>
@@ -244,13 +254,13 @@ p {
             </a>
         </h3>
         <p><strong>Date:</strong> Dec, 2023</p>
-        <p>In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit for dynamic searches, enhancing multimodal AI information retrieval.</p>
+        <p>In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit, which allows users to easily perform dynamic searches between text and images, making it quick and easy for users to conduct multimodal AI information retrieval.</p>
     </div>
 </div>
 
-<div class="container">
+<div class="container bg-white">
     <div class="image-container">
-        <img src="assets/img/Enhancing EEG Data Classification cover.png" alt="EEG Data Classification">
+        <img src="assets/img/Enhancing EEG Data Classification cover.png" alt="Enhancing EEG Data Classification">
     </div>
     <div class="content-container">
         <h3>
@@ -259,11 +269,11 @@ p {
             </a>
         </h3>
         <p><strong>Date:</strong> May, 2023</p>
-        <p>This project applies CNN, CRNN, and ensemble models to improve EEG data classification. By capturing both short-term and long-term patterns, the models achieved 73.6% accuracy, demonstrating the value of diverse architectures for better brain signal analysis.</p>
+        <p>This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.</p>
     </div>
 </div>
 
-<div class="container">
+<div class="container bg-gray">
     <div class="image-container">
         <img src="assets/img/Building Word Embeddings with GloVe cover.webp" alt="GloVe Word Embeddings">
     </div>
@@ -274,8 +284,6 @@ p {
             </a>
         </h3>
         <p><strong>Date:</strong> March, 2023</p>
-        <p>In this project, we built and trained the GloVe model to create word embeddings by analyzing word co-occurrence patterns. The model achieved 75% accuracy on analogy tasks, improving performance in information retrieval and other NLP applications.</p>
+        <p>In this project, we built and trained the GloVe model to create word embeddings by analyzing word co-occurrence patterns. Our work involved constructing and optimizing a word-word co-occurrence matrix, training the embeddings using weighted least squares, and fine-tuning hyperparameters for improved performance. We evaluated the model on tasks like word analogy and similarity, achieving 75% accuracy in analogy prediction. These embeddings improved performance in tasks like information retrieval and natural language processing.</p>
     </div>
 </div>
-
-
