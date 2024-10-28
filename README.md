@@ -197,7 +197,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
         </h3>
         <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
         <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
-            In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit for dynamic searches, enhancing multimodal AI information retrieval.
+            In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit, which allows users to easily perform dynamic searches between text and images, making it quick and easy for users to conduct multimodal AI information retrieval.
         </p>
     </div>
 </div>
