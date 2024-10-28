@@ -144,146 +144,87 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 
 
 
-<style>
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 15px;
-    margin-bottom: 10px;
-}
-
-.image-container {
-    flex: 1 1 30%;
-    max-width: 30%;
-    margin-right: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.image-container img {
-    width: 100%;
-    height: auto;
-    max-height: 200px;
-}
-
-.content-container {
-    flex: 1 1 65%;
-    max-width: 65%;
-}
-
-h3 {
-    font-size: 17px;
-    margin-bottom: 10px;
-}
-
-p {
-    font-size: 12px;
-    margin: 5px 0;
-    color: #444444;
-    text-align: justify;
-}
-
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
-    }
-
-    .image-container,
-    .content-container {
-        max-width: 100%;
-        margin-right: 0;
-    }
-
-    h3 {
-        font-size: 16px;
-    }
-
-    p {
-        font-size: 14px;
-    }
-}
-
-.bg-gray {
-    background-color: #f0f0f0;
-}
-
-.bg-white {
-    background-color: #ffffff;
-}
-</style>
-
-<div class="container bg-gray">
-    <div class="image-container">
-        <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow">
+<div style="display: flex; flex-wrap: wrap; background-color: #f0f0f0; padding: 15px; margin-bottom: 10px;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; align-items: center; justify-content: center;">
+        <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div class="content-container">
-        <h3>
+    <div style="flex: 1 1 65%; max-width: 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
                 Anticipating Tomorrow: Predicting Radiologist Case Volumes
             </a>
         </h3>
-        <p><strong>Date:</strong> Dec, 2023</p>
-        <p>In collaboration with Massachusetts General Hospital, this project developed a forecasting system using LightGBM and ensemble models to predict radiologist workloads 1-7 days ahead. With a <10% SMAPE, the system improved healthcare resource allocation, ensuring better staff planning, reducing delays, and enhancing patient care efficiency.</p>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
+        <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
+            In collaboration with Massachusetts General Hospital, this project developed a forecasting system using LightGBM and ensemble models to predict radiologist workloads 1-7 days ahead. With a <10% SMAPE, the system improved healthcare resource allocation, ensuring better staff planning, reducing delays, and enhancing patient care efficiency.
+        </p>
     </div>
 </div>
 
-<div class="container bg-white">
-    <div class="image-container">
-        <img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction">
+<div style="display: flex; flex-wrap: wrap; background-color: #ffffff; padding: 15px; margin-bottom: 10px;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; align-items: center; justify-content: center;">
+        <img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div class="content-container">
-        <h3>
+    <div style="flex: 1 1 65%; max-width: 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="https://anniechen091.wixsite.com/anniechen/cod-reduction" target="_blank">
                 AI Resource Optimization and Waste Reduction
             </a>
         </h3>
-        <p><strong>Date:</strong> May, 2022</p>
-        <p>This project focused on building AI-driven predictive models to optimize production planning in plastic manufacturing. By identifying key factors influencing wastewater pollutants, we reduced COD levels from 45,000 ppm to 30,000 ppm, cutting treatment costs and minimizing environmental impact. This approach improved resource management, reduced waste, and increased production efficiency by 20%.</p>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> May, 2022</p>
+        <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
+            This project focused on building AI-driven predictive models to optimize production planning in plastic manufacturing. By identifying key factors influencing wastewater pollutants, we reduced COD levels from 45,000 ppm to 30,000 ppm, cutting treatment costs and minimizing environmental impact. This approach improved resource management, reduced waste, and increased production efficiency by 20%.
+        </p>
     </div>
 </div>
 
-<div class="container bg-gray">
-    <div class="image-container">
-        <img src="assets/img/CLIP-Architecture-Explained-OpenAI-Training.webp" alt="Multimodal Databases">
+<div style="display: flex; flex-wrap: wrap; background-color: #f0f0f0; padding: 15px; margin-bottom: 10px;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; align-items: center; justify-content: center;">
+        <img src="assets/img/CLIP-Architecture-Explained-OpenAI-Training.webp" alt="Multimodal Databases" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div class="content-container">
-        <h3>
+    <div style="flex: 1 1 65%; max-width: 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Vectorized Similarity Search in Multi-modal Databases.pdf" target="_blank">
                 Vectorized Similarity Search in Multi-modal Databases
             </a>
         </h3>
-        <p><strong>Date:</strong> Dec, 2023</p>
-        <p>In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit, which allows users to easily perform dynamic searches between text and images, making it quick and easy for users to conduct multimodal AI information retrieval.</p>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> Dec, 2023</p>
+        <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
+            In this project, we developed a multimodal database using CLIP embeddings to enable text-to-image and image-to-text searches. With kNN and ANN algorithms, it achieved 96% precision on the MS-COCO dataset. The project also included a user-friendly interface built with Streamlit for dynamic searches, enhancing multimodal AI information retrieval.
+        </p>
     </div>
 </div>
 
-<div class="container bg-white">
-    <div class="image-container">
-        <img src="assets/img/Enhancing EEG Data Classification cover.png" alt="Enhancing EEG Data Classification">
+<div style="display: flex; flex-wrap: wrap; background-color: #ffffff; padding: 15px; margin-bottom: 10px;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; align-items: center; justify-content: center;">
+        <img src="assets/img/Enhancing EEG Data Classification cover.png" alt="EEG Data Classification" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div class="content-container">
-        <h3>
+    <div style="flex: 1 1 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Enhancing EEG Data Classification with CNN, CRNN, and Ensemble Models.pdf" target="_blank">
                 Enhancing EEG Data Classification with CNN, CRNN, and Ensemble Models
             </a>
         </h3>
-        <p><strong>Date:</strong> May, 2023</p>
-        <p>This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.</p>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> May, 2023</p>
+        <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
+            This project aims to improve the accuracy of EEG data classification for better brain signal interpretation. It applies CNN, CRNN, and CRNN with Attention to classify EEG data, and the result shows that CNNs excel at capturing short-term patterns, while CRNNs handle longer sequences effectively. By ensembling 64 models, the system achieved 73.6% accuracy, showcasing the benefits of diverse model architectures to improve EEG signal analysis.
+        </p>
     </div>
 </div>
 
-<div class="container bg-gray">
-    <div class="image-container">
-        <img src="assets/img/Building Word Embeddings with GloVe cover.webp" alt="GloVe Word Embeddings">
+<div style="display: flex; flex-wrap: wrap; background-color: #f0f0f0; padding: 15px; margin-bottom: 10px;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; align-items: center; justify-content: center;">
+        <img src="assets/img/Building Word Embeddings with GloVe cover.webp" alt="GloVe Word Embeddings" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div class="content-container">
-        <h3>
+    <div style="flex: 1 1 65%;">
+        <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/GloVe_Global Vectors for Word Representation.pdf" target="_blank">
                 Building Word Embeddings with GloVe for NLP Applications
             </a>
         </h3>
-        <p><strong>Date:</strong> March, 2023</p>
-        <p>In this project, we built and trained the GloVe model to create word embeddings by analyzing word co-occurrence patterns. Our work involved constructing and optimizing a word-word co-occurrence matrix, training the embeddings using weighted least squares, and fine-tuning hyperparameters for improved performance. We evaluated the model on tasks like word analogy and similarity, achieving 75% accuracy in analogy prediction. These embeddings improved performance in tasks like information retrieval and natural language processing.</p>
+        <p style="font-size: 12px; margin: 10px 0;"><strong>Date:</strong> March, 2023</p>
+        <p style="font-size: 12px; margin-top: 5px; color: #444444; text-align: justify;">
+            In this project, we built and trained the GloVe model to create word embeddings by analyzing word co-occurrence patterns. Our work involved constructing and optimizing a word-word co-occurrence matrix, training the embeddings using weighted least squares, and fine-tuning hyperparameters for improved performance. We evaluated the model on tasks like word analogy and similarity, achieving 75% accuracy in analogy prediction. These embeddings improved performance in tasks like information retrieval and natural language processing.
+        </p>
     </div>
 </div>
