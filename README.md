@@ -145,7 +145,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 
 
 <div style="display: flex; flex-wrap: wrap; background-color: #f0f0f0; padding: 15px; margin-bottom: 10px;">
-    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; justify-content: center;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; ">
         <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto; max-height: 200px;">
     </div>
     <div style="flex: 1 1 65%; max-width: 65%;">
@@ -162,7 +162,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="display: flex; flex-wrap: wrap; background-color: #ffffff; padding: 15px; margin-bottom: 10px;">
-    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; justify-content: center;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; ">
         <img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction" style="width: 100%; height: auto; max-height: 200px;">
     </div>
     <div style="flex: 1 1 65%; max-width: 65%;">
