@@ -50,7 +50,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto;">
 </div>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; ">
 <h3 style="font-size: 17px; margin-bottom: 10px;">
     <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
         Anticipating Tomorrow: Predicting Radiologist Case Volumes
@@ -148,7 +148,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; height:auto; max-height:200px;">
         <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div style="flex: 1 1 65%; max-width: 65%;">
+    <div style="flex: 1 1 65%; ">
         <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
                 Anticipating Tomorrow: Predicting Radiologist Case Volumes
@@ -165,7 +165,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; height:auto; max-height:200px;">
         <img src="assets/img/Resource Optimization and Waste Reduction-cover.jpg" alt="Waste Reduction" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div style="flex: 1 1 65%; max-width: 65%;">
+    <div style="flex: 1 1 65%;">
         <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="https://anniechen091.wixsite.com/anniechen/cod-reduction" target="_blank">
                 AI Resource Optimization and Waste Reduction
@@ -182,7 +182,7 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
     <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; height:auto; max-height:200px;">
         <img src="assets/img/CLIP-Architecture-Explained-OpenAI-Training.webp" alt="Multimodal Databases" style="width: 100%; height: auto; max-height: 200px;">
     </div>
-    <div style="flex: 1 1 65%; max-width: 65%;">
+    <div style="flex: 1 1 65%;">
         <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Vectorized Similarity Search in Multi-modal Databases.pdf" target="_blank">
                 Vectorized Similarity Search in Multi-modal Databases
