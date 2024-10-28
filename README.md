@@ -149,10 +149,11 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 </div>
 
 <div style="display: flex; flex-wrap: wrap; background-color: #f0f0f0; padding: 15px; margin-bottom: 10px;">
-    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px; display: flex; height:auto; max-height:200px;">
-        <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" style="width: 100%; height: auto; max-height: 200px; bject-fit: contain;">
+    <div style="flex: 1 1 30%; max-width: 30%; margin-right: 20px;">
+        <img src="assets/img/Anticipating Tomorrow cover.png" alt="Anticipating Tomorrow" 
+             style="width: 100%; height: auto; aspect-ratio: 1 / 1; max-height: 200px;">
     </div>
-    <div style="flex: 1 1 65%; ">
+    <div style="flex: 1 1 65%;">
         <h3 style="font-size: 17px; margin-bottom: 10px;">
             <a href="assets/Anticipating%20Tomorrow%20Predicting%20Radiologist%20Case%20Volumes.pdf" target="_blank">
                 Anticipating Tomorrow: Predicting Radiologist Case Volumes
