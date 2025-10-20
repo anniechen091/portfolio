@@ -27,17 +27,17 @@ Right now, I'm seeking my next move. I invite you to check out my [resume](asset
 <p style="font-family: Calibri; font-size: 12 px; color: black;margin-bottom: 2px;">
 <strong>Senior Data Analyst</strong>, @ 99 Ranch Market – Tawa Supermarket Inc. (Headquarters) | Largest Asian supermarket with 50+ stores and $1B revenue  <span style="color: grey;">(03/2025 – Present)</span>
   <ul style="font-family: Calibri; font-size: 12 px; color: black; margin-top: 2px;">
-    <li>Design and implement Python ETL pipelines that automate SAP data extraction, cleansing, and upload to SQL Server, with full data integrity checks and failure recovery, enabling stable processing of 700K+ weekly records.</li>
-    <li>Spearhead the creation of the company’s first cross-functional sales and inventory database, enabling real-time access for 40+ users across 5 departments and reducing manual file prep time by over 90</li>
-    <li>Build forecasting models incorporating sales history and seasonality, shifting the team from reactive ordering to predictive planning, reducing excess inventory by 12%. </li>
+    <li>Design and implement Python ETL pipelines, enabling stable processing of 700K+ weekly records.</li>
+    <li>Spearhead the creation of the company’s first cross-functional sales and inventory database, enabling real-time access across 5 departments.</li>
+    <li>Build forecasting models incorporating sales history and seasonality, reducing excess inventory by 12%. </li>
   </ul>
 </p>
 <p style="font-family: Calibri; font-size: 12 px; color: black;margin-bottom: 2px;">
 <strong>Sales Data Analyst</strong>, Retail and Ecommerce @ GOOSH INC <span style="color: grey;">(06/2023 – 01/2024)</span>
   <ul style="font-family: Calibri; font-size: 12 px; color: black; margin-top: 2px;">
-    <li>Revitalized sales for a new product line by analyzing interaction data from FB Marketplace and local apps. Identified high-engagement platforms and proposed targeted campaigns, achieving over 35x sales growth.</li>
+    <li>Revitalized sales by identifying high-engagement platforms and proposing targeted campaigns, achieving over 35x sales growth.</li>
     <li>Built Power BI dashboards for data-driven decision-making.</li>
-    <li>Built a seasonal demand forecasting model using historical sales and inventory data, seasonal factors, and external market trends. Optimized replenishment and supply chain planning, reducing stockouts and overstock by 25%.</li>
+    <li>Built a seasonal demand forecasting model using historical sales and inventory data, seasonal factors, and external market trends. </li>
   </ul>
 </p>
 <p style="font-family: Calibri; font-size: 12 px; color: black; margin-bottom: 2px;">  
